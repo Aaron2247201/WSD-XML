@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie-streaming>
+    <user id="U001">
+        <name>Aaron</name>
+        <phone>3129741826</phone>
+        <email>a@gmail.com</email>
+        <address>
+            <street>Church Street</street>
+            <city>Bangalore</city>
+            <state>Karnataka</state>
+            <country>India</country>
+        </address>
+    </user>
+    <user id="U002">
+        <name>Roy</name>
+        <phone>8593065372</phone>
+        <email>b@gmail.com</email>
+        <address>
+            <street>21st Street</street>
+            <city>Chennai</city>
+            <state>Tamil Nadu</state>
+            <country>India</country>
+        </address>
+    </user>
+    <user id="U003">
+        <name>Cade</name>
+        <phone>5720176934</phone>
+        <email>c@gmail.com</email>
+        <address>
+            <street>Lake Street</street>
+            <city>Kochi</city>
+            <state>Kerala</state>
+            <country>India</country>
+        </address>
+    </user>
+    <movie id="M012">
+        <title>The Prestige</title>
+        <description>After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.</description>
+        <rating>4.2/5</rating>
+    </movie>
+    <movie id="M012">
+        <title>Inception</title>
+        <description>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.</description>
+        <rating>4.5/5</rating>
+    </movie>
+    <movie id="M012">
+        <title>Interstellar</title>
+        <description>When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.</description>
+        <rating>4.8/5</rating>
+    </movie>
+    <!-- add subscription if needed-->
+</movie-streaming>
